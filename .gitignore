@@ -1,0 +1,7 @@
+original/
+bower_components/
+bower.json
+coverage/
+/node_modules
+/*.log
+.idea/
